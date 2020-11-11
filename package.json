@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/viniciusilva811/Serverless/issues"
   },
-  "homepage": "https://github.com/viniciusilva811/Serverless#readme"
+  "homepage": "https://github.com/viniciusilva811/Serverless#readme",
+  "dependencies": {
+    "mongodb": "^3.6.3"
+  }
 }
